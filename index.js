@@ -12,4 +12,4 @@ class User{
 
 }
 
-module.exports = Us
+module.exports = User;
