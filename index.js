@@ -7,9 +7,9 @@ class User{
 
     getUserName(){}
 
-    get UserStatus(){}
+    getUserStatus(){}
 
 
 }
 
-module.exports = Us
+module.exports = User;
